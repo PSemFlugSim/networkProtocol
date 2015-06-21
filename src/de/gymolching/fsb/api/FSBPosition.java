@@ -2,6 +2,7 @@ package de.gymolching.fsb.api;
 
 public class FSBPosition
 {
+	public static final int MAX = 255;
 	private int length1;
 	private int length2;
 	private int length3;
